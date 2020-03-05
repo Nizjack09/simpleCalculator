@@ -174,7 +174,7 @@ public class home extends javax.swing.JFrame {
          c.setText(""+numb3);  
       }catch(Exception e){
 //          JOptionPane.showMessageDialog(null,"inderterminate form");
-        c.setText("ntibibaho");
+        c.setText("inderterminate form"); //For displaying the result in Screen
       }
          
         
